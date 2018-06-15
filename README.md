@@ -1,5 +1,7 @@
 # squid-python-redirect
 
+for Squid 3.5.12 and Python 3.x
+
 # How it works
 
 urls.json contains key-value pairs of redirected sites.
